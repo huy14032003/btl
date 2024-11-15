@@ -1,0 +1,16 @@
+D:\Users\trhuy\source\repos\btl\btl\bin\Debug\btl.exe.config
+D:\Users\trhuy\source\repos\btl\btl\bin\Debug\btl.exe
+D:\Users\trhuy\source\repos\btl\btl\bin\Debug\btl.pdb
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.csproj.AssemblyReference.cache
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.btnexit.resources
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.Properties.Resources.resources
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.csproj.GenerateResource.cache
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.csproj.CoreCompileInputs.cache
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.exe
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.pdb
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.login.resources
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.regis.resources
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.qlysv.resources
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.qltaikhoan.resources
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.Doimatkhau.resources
+D:\Users\trhuy\source\repos\btl\btl\obj\Debug\btl.thongtin.resources
