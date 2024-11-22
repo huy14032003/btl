@@ -53,6 +53,12 @@
     <Compile Include="Doimatkhau.Designer.cs">
       <DependentUpon>Doimatkhau.cs</DependentUpon>
     </Compile>
+    <Compile Include="doimk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doimk.Designer.cs">
+      <DependentUpon>doimk.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,8 +102,17 @@
     <Compile Include="thongtin.Designer.cs">
       <DependentUpon>thongtin.cs</DependentUpon>
     </Compile>
+    <Compile Include="timkiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="timkiem.Designer.cs">
+      <DependentUpon>timkiem.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Doimatkhau.resx">
       <DependentUpon>Doimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doimk.resx">
+      <DependentUpon>doimk.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -126,6 +141,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="thongtin.resx">
       <DependentUpon>thongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="timkiem.resx">
+      <DependentUpon>timkiem.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

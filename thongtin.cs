@@ -15,6 +15,7 @@ namespace btl
     {
         private string  mode;
         private string tableName;
+        
         public thongtin(string tableName, string mode)
         {
             InitializeComponent();

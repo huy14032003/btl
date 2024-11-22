@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QLSV;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -292,6 +293,54 @@ namespace btl
         private void quảnLýToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void khoaToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            timkiem thongTinForm = new timkiem("khoa");
+
+            thongTinForm.ShowDialog();
+        }
+
+        private void giáoViênToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            timkiem thongTinForm = new timkiem("giaovien");
+
+            thongTinForm.ShowDialog();
+        }
+
+        private void lớpToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            timkiem thongTinForm = new timkiem("lop");
+
+            thongTinForm.ShowDialog();
+        }
+
+        private void sinhViênToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            timkiem thongTinForm = new timkiem("sinhvien");
+
+            thongTinForm.ShowDialog();
+        }
+
+        private void mônHọcToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            timkiem thongTinForm = new timkiem("monhoc");
+
+            thongTinForm.ShowDialog();
+        }
+
+        private void chínhSáchToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            timkiem thongTinForm = new timkiem("chinhsach");
+
+            thongTinForm.ShowDialog();
+        }
+
+        private void ts_doimatkhau_Click(object sender, EventArgs e)
+        {
+            doimk f=new doimk();
+            f.ShowDialog();
         }
     }
 }
